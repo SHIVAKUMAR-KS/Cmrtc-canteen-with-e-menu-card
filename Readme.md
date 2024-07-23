@@ -10,3 +10,9 @@
 1. Clone the repository
    ```bash
    git clone https://github.com/SHIVAKUMAR-KS/Cmrtc-canteen-with-e-menu-card
+
+2.You can see the files as :
+   ```bash
+   RTRP ppt
+   RTRP docs
+   Wordflow image of this project
